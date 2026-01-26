@@ -7,17 +7,17 @@ grand_parent: Unidad 1
 nav_order: 5
 ---
 
-# Instituto Nacional de Migración
+# National Institute of Migration
 
-## Obtención de permiso de trabajo para extranjeros residentes temporales en México
+## Acquiring a work permit for foreign temporary residents in Mexico
 
-Si eres extranjero residente temporal o temporal estudiante puedes solicitar permiso para trabajar en México.
+If you are a temporary resident foreigner or a temporary student, you can apply for a work permit in Mexico.
 
-### Documentos necesarios
+### Required documents
 
-| **Documento requerido** | **Presentación** |
+| **Document** | **Submission** |
 |-------------------------|------------------|
-| [Formato para solicitar trámite migratorio de estancia, llenado de manera electrónica a través de la página de internet, con firma autógrafa del promovente](https://www.inm.gob.mx/tramites/publico/estancia.html) | Original |
-| Tarjeta de residente temporal o de residente temporal estudiante vigente | Original |
-| Comprobante del pago de derechos que corresponda de conformidad con la Ley Federal de Derechos | Original |
-| Carta oferta de empleo en papel membretado de persona física o moral en la que se indique actividad a realizar, temporalidad requerida, lugar de trabajo y los datos de la constancia de inscripción del empleador debidamente actualizada | Original |
+| [Application format for migration procedures of stay, filled out electronically via the website, with the applicant's handwritten signature](https://www.inm.gob.mx/tramites/publico/estancia.html) | Original |
+| Temporary residence card or temporary student resident card | Original |
+| Payment receipt of the applicable fees in accordance with the Federal Tax Act in Mexico | Original |
+| Job offer letter on the letterhead of a natural or legal person, in which is stated the activity to be performed, required duration, workplace, and the date from the employer's duly updated registration certification. | Original |
