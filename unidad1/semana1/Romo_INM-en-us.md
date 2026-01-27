@@ -63,7 +63,7 @@ The payment information sheet must be filled out according to the following spec
 **Online:** Start your application online, then print and submit it in person.
 
 **In Person:** : At the [application services office of the Institute](http://www.inm.gob.mx/gobmx/word/index.php/horarios-y-oficinas/) corresponding to the applicant's address. If the assigned Regional Office is not conveniently located to your residence, call to request information about a closer INM office.
-.
+
 **By Phone:** (for guidance) 800 00 46264.
 
 ---
