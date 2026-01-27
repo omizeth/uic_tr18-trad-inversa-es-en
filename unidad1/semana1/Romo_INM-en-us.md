@@ -14,7 +14,7 @@ If you are a temporary resident foreigner or a temporary student, you can apply 
 
 ### Required documents
 
-| **Required document** | **Form** |
+| **Required Document** | **Form** |
 |-------------------------|------------------|
 | [Application format for migration procedures of stay, filled out electronically via the website, with the applicant's handwritten signature](https://www.inm.gob.mx/tramites/publico/estancia.html) | Original form|
 | Temporary residence card or temporary student resident card | Original form |
@@ -29,7 +29,7 @@ If you are a temporary resident foreigner or a temporary student, you can apply 
 
 - Aside from their residency card, fee payment receipt, and job offer letter, the temporary resident student should submit a letter of compliance issued by the corresponding academic institution. The foregoing, provided that the applicant is pursuing higher education, postgraduate studies, and research, and that the occupation they engage in is related to their field of studies. **Original form**
 
-| **Required document** | **Form** |
+| **Required Document** | **Form** |
 |-------------------------|------------------|
 | In the case of applicants over fifteen and under eighteen years of age, they must additionally submit the permits or authorizations established in the labor regulations. | Original form and a copy |
 
@@ -37,7 +37,7 @@ If you are a temporary resident foreigner or a temporary student, you can apply 
 
 ### Fees
 
-| **Type of resident** | **Fee** |
+| **Type of Resident** | **Fee** |
 |----------------------|-----------|
 | Temporary resident | $4,001.00 mxn |
 | Temporary student resident | $4,001.00 mxn |
@@ -48,7 +48,7 @@ If you are a temporary resident foreigner or a temporary student, you can apply 
 
 **Note:** To generate the corresponding payment reference number, please access the following [link](http://www.inm.gob.mx/gobmx/word/index.php/pago-de-derechos/).
 
-The payment information sheet must be filled out according to the following specifications::
+The payment information sheet must be filled out according to the following specifications:
 
 - Verify that it corresponds to the type of procedure requested.
 
