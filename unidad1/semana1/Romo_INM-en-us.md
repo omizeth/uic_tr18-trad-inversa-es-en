@@ -22,13 +22,14 @@ If you are a temporary resident foreigner or a temporary student, you can apply 
 | Payment receipt of the applicable fees in accordance with the Federal Tax Act in Mexico | Original |
 | Job offer letter on the letterhead of a natural or legal person, in which is stated the activity to be performed, required duration, workplace, and the date from the employer's duly updated registration certification. | Original |
 
-**En caso de actividades independientes, deberá adjuntar:**
+**In case of independent activities the applicant should attach:**
 
-- [Escrito bajo protesta de decir verdad](http://www.inm.gob.mx/static/vun_tramites/Escrito_para_trabajar_de_manera_independiente.pdf) en el que manifieste la ocupación a la que se dedicará y el lugar en el que desarrollará las actividades propias de su ocupación. Descargar y requisitar. **Original**
+- [A written statement under oath](http://www.inm.gob.mx/static/vun_tramites/Escrito_para_trabajar_de_manera_independiente.pdf), in which they manifest the occupation they want to engage in and the place in which they will carry out the activities linked to their occupation. Download and request. **Original form**
 
-- Comprobante de la inscripción en el Registro Federal de Contribuyentes. **Copia**
+- A receipt of their registration to the Mexican Federal Registry of Taxpayers. **Copy**
 
-- El residente temporal estudiante además de la tarjeta de residente, comprobante del pago de derechos y carta oferta de empleo, deberá presentar carta de conformidad de la institución educativa correspondiente. Lo anterior siempre y cuando, realice estudios de nivel superior, posgrado e investigación y la ocupación que pretenda desarrollar se encuentre relacionada con la materia de sus estudios. **Original**
+- Aside from their residency card, fee payment receipt, and job offer letter, the temporary resident student should submit a letter of compliance issued by the corresponding academic institution. The foregoing, provided that the applicant is pursuing higher education, postgraduate studies, and research, and that the occupation they engage in is related to their field of studies. **Original form**
+
 
 | **Required document** | **Form** |
 |-------------------------|------------------|
