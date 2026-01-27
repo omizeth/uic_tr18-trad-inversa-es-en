@@ -8,7 +8,7 @@ nav_order: 5
 
 # National Institute of Migration
 
-## Acquiring a work permit for foreign temporary residents in Mexico
+## Acquiring a Work Permit for Foreign Temporary Residents in Mexico
 
 If you are a temporary resident foreigner or a temporary student, you can apply for a work permit in Mexico.
 
