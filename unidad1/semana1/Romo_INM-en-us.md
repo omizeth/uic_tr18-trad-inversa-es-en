@@ -14,12 +14,12 @@ If you are a temporary resident foreigner or a temporary student, you can apply 
 
 ### Required documents
 
-| **Required document** | **Submission** |
+| **Required document** | **Form** |
 |-------------------------|------------------|
-| [Application format for migration procedures of stay, filled out electronically via the website, with the applicant's handwritten signature](https://www.inm.gob.mx/tramites/publico/estancia.html) | Original |
-| Temporary residence card or temporary student resident card | Original |
-| Payment receipt of the applicable fees in accordance with the Federal Tax Act in Mexico | Original |
-| Job offer letter on the letterhead of a natural or legal person, in which is stated the activity to be performed, required duration, workplace, and the date from the employer's duly updated registration certification. | Original |
+| [Application format for migration procedures of stay, filled out electronically via the website, with the applicant's handwritten signature](https://www.inm.gob.mx/tramites/publico/estancia.html) | Original form|
+| Temporary residence card or temporary student resident card | Original form |
+| Payment receipt of the applicable fees in accordance with the Federal Tax Act in Mexico | Original form|
+| Job offer letter on the letterhead of a natural or legal person, in which is stated the activity to be performed, required duration, workplace, and the date from the employer's duly updated registration certification. | Original form|
 
 **In case of independent activities the applicant should attach:**
 
