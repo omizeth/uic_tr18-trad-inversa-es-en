@@ -1,4 +1,3 @@
-
 ---
 layout: default
 title: INM - Permiso de Trabajo para Extranjeros
@@ -30,7 +29,6 @@ If you are a temporary resident foreigner or a temporary student, you can apply 
 
 - Aside from their residency card, fee payment receipt, and job offer letter, the temporary resident student should submit a letter of compliance issued by the corresponding academic institution. The foregoing, provided that the applicant is pursuing higher education, postgraduate studies, and research, and that the occupation they engage in is related to their field of studies. **Original form**
 
-
 | **Required document** | **Form** |
 |-------------------------|------------------|
 | In the case of applicants over fifteen and under eighteen years of age, they must additionally submit the permits or authorizations established in the labor regulations. | Original form and a copy |
@@ -60,17 +58,14 @@ The payment information sheet must be filled out according to the following spec
 
 - It is recommended to carefully review the payment receipts issued by banking institutions to ensure there are no errors in the applicant’s identification details.
 
-
 ### Options for Processing Your Application
 
 **Online:** Start your application online, then print and submit it in person.
 
 **In Person:** : At the [application services office of the InstituteInstituto](http://www.inm.gob.mx/gobmx/word/index.php/horarios-y-oficinas/) corresponding to the applicant's address. If the assigned Regional Office is not conveniently located to your residence, call to request information about a closer INM office.
 .
-
 **By Phone:** (for guidance) 800 00 46264.
 
 ---
 
-**Source:** [Government of Mexico - National Migration Institute (INM)
-](https://www.gob.mx/tramites/ficha/permiso-a-extranjeros-residentes-temporales-y-temporales-estudiantes-para-trabajar-en-mexico/INM795)
+**Source:** [Government of Mexico - National Migration Institute (INM)](https://www.gob.mx/tramites/ficha/permiso-a-extranjeros-residentes-temporales-y-temporales-estudiantes-para-trabajar-en-mexico/INM795)
