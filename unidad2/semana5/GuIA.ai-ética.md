@@ -28,17 +28,17 @@ This study examines how small start-ups in Latin America that develop artificial
 
 - Overall, most risks were identified before market launch: 60% of respondents did so prior to developing the product or service, and 72% identified risks during development. 28% detected risks after the product or service had already been released to the market.
 
-### Impact mitigation in startups that identify AI risks in their sector
+### Impact mitigation in start-ups that identify AI risks in their sector
 
-- Activities to detect or mitigate risks are carried out by 82% of startups.
+- Activities to detect or mitigate risks are carried out by 82% of start-ups.
 
-- Most start-ups implement initiatives to help clients or users improve their understanding of basic AI concepts, or about the process or logic by which the AI system arrives at a certain result. These initiatives are implemented by two-thirds of startups.
+- Most start-ups implement initiatives to help clients or users improve their understanding of basic AI concepts, or about the process or logic by which the AI system arrives at a certain result. These initiatives are implemented by two-thirds of start-ups.
 
-- Ways to address these risks are regularly monitored by 89% of startups, primarily through active information search and tracking (84%), participation in events (72%), and engagement in communities (68%).
+- Ways to address these risks are regularly monitored by 89% of start-ups, primarily through active information search and tracking (84%), participation in events (72%), and engagement in communities (68%).
 
 ### Incentives and barriers to detect and/or address risks in AI use
 
-- Among startups that detect and/or address risks in AI use, the main drivers are self-motivation (78%), reputation (60%), user protection (60%), and regulatory compliance (47%). Meanwhile, only a smaller proportion (17%) is driven by demands from third parties such as clients, investors, or accelerators.
+- Among start-ups that detect and/or address risks in AI use, the main drivers are self-motivation (78%), reputation (60%), user protection (60%), and regulatory compliance (47%). Meanwhile, only a smaller proportion (17%) is driven by demands from third parties such as clients, investors, or accelerators.
 
 - Sixty-five percent of those who address the risks associated with the use of AI in their start-ups consider that factors are hindering the adoption of such activities, such as the absence of regulatory frameworks and/or entities (mentioned by 66%), non-representative, incomplete or inaccurate validation data and training (46%), lack of clarity in the responsibilities in the use of the AI system (46%) and lack of human resources (40%).
 
