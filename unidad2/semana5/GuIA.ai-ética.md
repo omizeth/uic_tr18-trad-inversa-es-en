@@ -6,51 +6,51 @@ grand_parent: Unidad 2
 nav_order: 4
 ---
 
-# El papel de la ética en el desarrollo de sistemas de inteligencia artificial en el sector emprendedor en América Latina
+# The role of ethics in the development of artificial intelligence systems in the entrepreneurial sector in Latin America
 
-**Por GuIA.ai**
+**By GuIA.ai**
 
-Este estudio analiza cómo los pequeños emprendimientos que desarrollan sistemas de inteligencia artificial en América Latina interpretan y aplican principios éticos en sus prácticas empresariales. La investigación se realizó mediante una encuesta regional para examinar las percepciones, motivaciones y principales riesgos que enfrentan estas empresas en relación con la ética de la IA. Los resultados indican que, si bien existe una comprensión generalizada de los principios éticos, aún es necesario traducir estos principios en prácticas operacionales concretas.
+This study examines how small start-ups in Latin America that develop artificial intelligence systems interpret and apply ethical principles to their business practices. The research was conducted through a regional survey to analyze the perceptions, motivations, and main risks faced by these companies in relation to AI ethics. The results indicate that, although there is a general understanding of ethical principles, it is still necessary to translate these principles into concrete operational practices.
 
-## Hallazgos de la encuesta
+## Survey findings
 
-### Técnicas y tipos de aplicación de IA
+### AI techniques and application types
 
-- Los emprendimientos suelen utilizar aprendizaje supervisado (71%). Además, alrededor del 50% utiliza redes neuronales, redes neuronales profundas, análisis de grupo, aprendizaje no supervisado y árbol de decisión.
+- Start-ups tend to use supervised learning (71%). Additionally, around 50% use neural networks, deep neural networks, cluster analysis, unsupervised learning, and decision trees.
 
-- El 71% aplica IA para realizar clasificaciones, mientras que el 65% y 61% la utiliza para el reconocimiento de patrones y predicciones, respectivamente. La mitad, además, realiza reconocimiento de imágenes.
+- Seventy-one percent employ AI to perform classifications, while 65% and 61% use it for pattern recognition and predictions, respectively. Half also perform image recognition.
 
-### Impactos de los sistemas de IA
+### Impacts of AI systems
 
-- El 54% de los encuestados considera que existen riesgos asociados con el uso de la IA en los sectores para los cuales trabajan. Al menos el 70% de los emprendimientos en salud, gobierno, educación, recursos humanos/mercados laborales y justicia identifica riesgos.
+- Fifty-four percent of respondents believe there are risks associated with the use of AI in the sectors in which they operate. At least 70% of start-ups in healthcare, government, education, human resources/labor markets, and the justice sector report identifying risks.
 
-- De los emprendimientos que identifican riesgos, el 64% ha enfrentado riesgos asociados al uso de datos sensibles y el 50%, a los sesgos de los algoritmos y posibles resultados discriminatorios y excluyentes. Alrededor de un tercio, además, identificó predicciones o correlaciones inexactas, y al menos un cuarto identificó riesgos vinculados a la robustez y seguridad de los sistemas de IA, la exposición y fuga de datos, y mala praxis o errores de implementación.
+- Among the start-ups that identified risks, 64% faced issues related to the use of sensitive data, and 50% reported risks linked to algorithmic bias and potentially discriminatory or exclusionary outcomes. Approximately one-third also identified inaccurate predictions or correlations, and at least one-quarter reported risks associated with the robustness and security of AI systems, data exposure and leakage, as well as improper practices or implementation errors.
 
-- En general, los riesgos fueron identificados antes de salir al mercado: el 60% de los encuestados lo hizo antes de desarrollar el producto o servicio, y el 72% lo identificó durante su desarrollo. El 28% detectó riesgos tras lanzar el producto o servicio al mercado.
+- Overall, most risks were identified before market launch: 60% of respondents did so prior to developing the product or service, and 72% identified risks during development. 28% detected risks after the product or service had already been released to the market.
 
-### Mitigación de impactos en emprendimientos que identifican riesgos de IA en su sector
+### Impact mitigation in startups that identify AI risks in their sector
 
-- El 82% sostiene que realiza actividades para detectar o mitigar riesgos.
+- Activities to detect or mitigate risks are carried out by 82% of startups.
 
-- Dos tercios de los emprendimientos realizan actividades para que los clientes o usuarios mejoren su entendimiento sobre los conceptos básicos de IA, o sobre el proceso o lógica mediante la cual el sistema de IA llega a un determinado resultado.
+- Most start-ups implement initiatives to help clients or users improve their understanding of basic AI concepts, or about the process or logic by which the AI system arrives at a certain result. These initiatives are implemented by two-thirds of startups.
 
-- El 89% suele mantenerse informado sobre las maneras de abordarlos. Lo hacen mayormente a través de la búsqueda y seguimiento activo de información sobre el tema (84%), la participación en eventos (72%) y comunidades (68%).
+- Ways to address these risks are regularly monitored by 89% of startups, primarily through active information search and tracking (84%), participation in events (72%), and engagement in communities (68%).
 
-### Incentivos y barreras para detectar y/o tratar riesgos en el uso de IA
+### Incentives and barriers to detect and/or address risks in AI use
 
-- Los emprendimientos que detectan y/o tratan riesgos en el uso de IA lo hacen por motivación propia (78%), reputación (60%), protección de los usuarios (60%) y por cumplimiento normativo (47%). En menor medida por exigencia de terceros, como clientes, inversores o aceleradoras (17%).
+- Among startups that detect and/or address risks in AI use, the main drivers are self-motivation (78%), reputation (60%), user protection (60%), and regulatory compliance (47%). Meanwhile, only a smaller proportion (17%) is driven by demands from third parties such as clients, investors, or accelerators.
 
-- El 65% de quienes abordan los riesgos en el uso de IA en sus emprendimientos considera que existen factores que obstaculizan la adopción de tales actividades, tales como la inexistencia de marcos y/o entes regulatorios (mencionado por el 66%), los datos de validación y entrenamiento no representativos, incompletos o imprecisos (46%), la falta de claridad en las responsabilidades en el uso del sistema de IA (46%) y la falta de recursos humanos (40%).
+- Sixty-five percent of those who address the risks associated with the use of AI in their start-ups consider that factors are hindering the adoption of such activities, such as the absence of regulatory frameworks and/or entities (mentioned by 66%), non-representative, incomplete or inaccurate validation data and training (46%), lack of clarity in the responsibilities in the use of the AI system (46%) and lack of human resources (40%).
 
-### Conocimiento del concepto de ética de IA y preferencia de marcos éticos
+### Knowledge of the concept of AI ethics and a preference for ethical frameworks
 
-- De los emprendimientos encuestados, el 60% sostiene que conoce el concepto de ética de IA, sobre el que han escuchado o leído mayormente en libros, artículos académicos y white papers (35%), y eventos (29%). Sólo el 16% lo ha escuchado en espacios de formación profesional/académica.
+- Sixty percent of the start-ups surveyed say they know the concept of AI ethics, which they have mostly heard or read about in books, academic articles, and white papers (35%), and events (29%). Only 16% have heard it in professional or academic training contexts.
 
-- El 90% de los emprendimientos que conocen el concepto de ética de IA considera relevante adoptar un marco ético dentro de sus equipos para fundamentar el desarrollo de la IA.
+- Ninety percent of start-ups familiar with AI ethics consider it relevant to adopt an ethical framework within their teams to guide AI development. 
 
-- Dos tercios de quienes adoptarían un marco ético prefieren uno validado por algún mecanismo internacional (como un organismo para el desarrollo, un consorcio de universidades o un organismo de estandarización).
+- Two-thirds of those who would adopt an ethical framework prefer one validated by an international mechanism (such as a development agency, a consortium of universities, or a standardization agency).
 
 ---
 
-**Fuente:** Aguerre, Carolina; Ferracuti, Delfina; Kirschbaum, Iván; Levy Daniel, Maia; Perini, Antonella, "[El papel de la ética en el desarrollo de sistemas de inteligencia artificial en el sector
-emprendedor en América Latina](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad2/semana5/referencias/GuIA.ai_PapelDeÈticaEnIA_2023.pdf)", Proyecto GuIA, Edición 2021, Centro de Estudios en Tecnología y Sociedad (CETyS) de la Universidad de San Andrés y Centro Latam Digital (CLD), 2022
+**Source:** Aguerre, Carolina; Ferracuti, Delfina; Kirschbaum, Iván; Levy Daniel, Maia; Perini, Antonella, "[El papel de la ética en el desarrollo de sistemas de inteligencia artificial en el sector
+emprendedor en América Latina](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad2/semana5/referencias/GuIA.ai_PapelDeÈticaEnIA_2023.pdf)", Proyecto GuIA, 2021 edition, Centro de Estudios en Tecnología y Sociedad (CETyS) de la Universidad de San Andrés y Centro Latam Digital (CLD), 2022
