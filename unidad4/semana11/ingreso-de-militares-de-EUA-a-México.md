@@ -151,31 +151,32 @@ Semar<br>
 ---
 ## Document 4 - Noticia 2
 
-### El Heraldo de Saltillo | MÉXICO
+### El Heraldo de Saltillo | MEXICO
 
-### Ya es oficial el ingreso de militares estadounidenses para adiestramiento de elementos de la Marina
+### The entry of U.S. military personnel to train Navy personnel is now official
 
-Por Agencias - 17 febrero, 2025
+By Agencias - February 17, 2025
 
-![Personal militar resguarda una zona con vehículos oficiales mientras se forma en línea durante un operativo de seguridad](https://raw.githubusercontent.com/alainamb/uic_tr18-trad-inversa-es-en/main/unidad4/semana11/imagenes/Agencias_noticia2-image.png)
+![Military personnel seucre an area with vehicles while lining up during a security operation](https://raw.githubusercontent.com/alainamb/uic_tr18-trad-inversa-es-en/main/unidad4/semana11/imagenes/Agencias_noticia2-image.png)
 
-<small>Se suma Marina a operativo de Semana Santa</small>
+<small>Navy joins Easter Week Operation</small>
 
-**Ciudad de México.-** Este 17 de febrero se publicó en el Diario Oficial de la Federación (DOF) el decreto con el que se autoriza el ingreso de militares estadounidenses a México con el objetivo de adiestrar a elementos de operaciones especiales de la Secretaría de Marina (Semar).
+**Mexico City.-** On February 17, a decree was published in the Official Journal of the Federation (DOF, "Diario Oficial de la Federación") authorizing the entry of U.S. military personnel into Mexico to train special operations personnel from the Secretariat of the Navy (Semar, "Secretaría de Marina").
 
-Su presencia en México, según se lee en el documento, tiene como propósito participar en el ejercicio de adiestramiento denominado "Fortalecer la Capacidad de las Fuerzas de Operaciones Especiales de la SEMAR", el cual se llevará a cabo en el Centro de Capacitación y Adiestramiento Especializado de Infantería de Marina, ubicado en San Luis Carpizo, Campeche, del 17 de febrero al 28 de marzo de 2025.
+According to the document, their presence in Mexico is intended to participate in the training exercise "Strengthening the Capacity of SEMAR’s Special Operations Forces," which will take place at the Marine Corps Specialized Training and Education Center ("Centro de Capacitación y Adiestramiento Especializado de Infantería de Marina") in San Luis Carpizao, Campeche, from February 17 to March 28, 2025.
 
+The decree was approved by the Chamber of Senators in accordance with the authority granted to it under Article 76, section III, of the Political Constitution of the United Mexican States, and subsequently promulgated by President Claudia Sheinbaum Pardo.
 El decreto fue aprobado por la Cámara de Senadores en ejercicio de la facultad que le otorga el artículo 76, fracción III, de la Constitución Política de los Estados Unidos Mexicanos, y posteriormente promulgado por la Presidenta Claudia Sheinbaum Pardo.
 
-El documento instruye, además, a la Secretaría de Marina para que, una vez finalizado el adiestramiento, presente un informe a la Cámara de Senadores sobre los resultados del ejercicio.
+The document also directs the Secretary of the Navy to submit a report to the Chamber of Senator a report of the exercise once the training is complete.
 
-Dicha autorización se enmarca dentro de los procedimientos establecidos en la Constitución y en la legislación vigente, que exige la aprobación del Senado para permitir la presencia temporal de fuerzas militares extranjeras en el país. La actividad de adiestramiento responde a los acuerdos de cooperación en materia de seguridad y defensa entre México y Estados Unidos.
+This authorization is in accordance with the procedures established in the Constitution and current legislation, which require Senate approval to allow the temporary presence of foreign military forces in the country. Training is part of the security and defense cooperation agreements between Mexico and the United States.
 
-La autorización del ingreso de militares estadounidenses a México ocurre en un momento en el que la relación bilateral en materia de seguridad está marcada por dos factores clave: la presencia de vuelos de vigilancia de Estados Unidos cerca de territorio mexicano, así como el proceso en Washington para designar a varios cárteles mexicanos como organizaciones terroristas extranjeras (FTO, por sus siglas en inglés).
+The authorization for the U.S. military personnel to enter Mexico comes at a time when bilateral security relations are marked by two key factors: the presence of U.S. surveillance flights near Mexican territory, as well as the process underway in Washington to designate several Mexican cartels as Foreign Terrorist Organizations (FTOs).
 
-El Departamento de Estado de Estados Unidos avanza en el proceso de designación de varios cárteles mexicanos como organizaciones terroristas extranjeras, lo que endurecería las sanciones contra estos grupos y ampliaría la capacidad de acción de las agencias de seguridad estadounidenses.
+U.S. Department of State is moving forward with the process of designating several Mexican cartels as foreign terrorist organizations, which is a move that would tighten sanctions againts this groups and expand the scope of action for U.S. security agencies.
 
-El diario 'The New York Times' reveló que la lista incluiría seis cárteles mexicanos:
+The New York Times reported that the list would include six Mexican cartels:
 
 - Cártel de Sinaloa (CDS)
 - Cártel Jalisco Nueva Generación (CJNG)
