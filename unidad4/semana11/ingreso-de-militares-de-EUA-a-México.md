@@ -153,38 +153,38 @@ Semar<br>
 
 ### El Heraldo de Saltillo | MEXICO
 
-### The entry of U.S. military personnel to train Navy personnel is now official
+### The Entry of U.S. Military Personnel for the Training of Navy Personnel Is Now Official
 
 By Agencias - February 17, 2025
 
 ![Military personnel seucre an area with vehicles while lining up during a security operation](https://raw.githubusercontent.com/alainamb/uic_tr18-trad-inversa-es-en/main/unidad4/semana11/imagenes/Agencias_noticia2-image.png)
 
-<small>Navy joins Easter Week Operation</small>
+<small>The Navy Joins Easter Operation</small>
 
-**Mexico City.-** On February 17, a decree was published in the Official Journal of the Federation (DOF, "Diario Oficial de la Federación") authorizing the entry of U.S. military personnel into Mexico to train special operations personnel from the Secretariat of the Navy (Semar, "Secretaría de Marina").
+**Mexico City.-** On February 17, a decree was published in the Official Journal of the Federation (DOF, "Diario Oficial de la Federación") authorizing the entry of U.S. military personnel into Mexico to train special operations personnel from the Secretariat of the Navy (SEMAR).
 
 According to the document, their presence in Mexico is intended to participate in the training exercise "Strengthening the Capacity of SEMAR’s Special Operations Forces," which will take place at the Marine Corps Specialized Training and Education Center ("Centro de Capacitación y Adiestramiento Especializado de Infantería de Marina") in San Luis Carpizao, Campeche, from February 17 to March 28, 2025.
 
-The decree was approved by the Chamber of Senators in accordance with the authority granted to it under Article 76, section III, of the Political Constitution of the United Mexican States, and subsequently promulgated by President Claudia Sheinbaum Pardo.
+The Chamber of Senators approved the decree in accordance with the authority granted to it under Article 76, Section III, of the Political Constitution of the United Mexican States, and subsequently promulgated by President Claudia Sheinbaum Pardo.
 
-The document also directs the Secretary of the Navy to submit a report to the Chamber of Senator a report of the exercise once the training is complete.
+The document also directs the Mexican Secretariat of the Navy to submit a report to the Chamber of Senators on the results of the exercise once the training is concluded.
 
 This authorization is in accordance with the procedures established in the Constitution and current legislation, which require Senate approval to allow the temporary presence of foreign military forces in the country. Training is part of the security and defense cooperation agreements between Mexico and the United States.
 
-The authorization for the U.S. military personnel to enter Mexico comes at a time when bilateral security relations are marked by two key factors: the presence of U.S. surveillance flights near Mexican territory, as well as the process underway in Washington to designate several Mexican cartels as Foreign Terrorist Organizations (FTOs).
+The authorization for the U.S. military personnel to enter Mexico comes at a time when bilateral security relations are marked by two key factors: the presence of U.S. surveillance flights near Mexican territory, as well as the process in Washington to designate several Mexican cartels as foreign terrorist organizations (FTOs).
 
-U.S. Department of State is moving forward with the process of designating several Mexican cartels as foreign terrorist organizations, which is a move that would tighten sanctions against these groups and expand the scope of action for U.S. security agencies.
+The U.S. Department of State is moving forward with the process of designating several Mexican cartels as foreign terrorist organizations, which would tighten sanctions against these groups and expand the operational capacity of U.S. security agencies.
 
 The New York Times reported that the list would include six Mexican cartels:
 
 - Sinaloa Cartel (CDS)
 - Jalisco New Generation Cartel (CJNG)
 - Northeast Cartel
-- The Michoacan Family
+- The Michoacan Family (La Familia Michoacana
 - United Cartels (also known as "The Resistance")
 - Gulf Cartel (CDG)
 
-The measure is based on an executive order signed by President Donald Trump on January 20, which seeks to classify these groups under the same category as Al-Qaeda or the Islamic State (ISIS). This designation would allow the United States to freeze its assets, restrict its financing, and expand the jurisdiction of its security agencies in the fight against transnational organized crime. (EL HERALDO)
+The measure is based on an executive order signed by President Donald Trump on January 20, which seeks to classify these groups under the same category as Al-Qaeda or the Islamic State (ISIS). This designation would allow the United States to freeze its assets, restrict its funding, and expand the jurisdiction of its security agencies in the fight against transnational organized crime. (EL HERALDO)
 
 **Source:** [https://elheraldodesaltillo.mx/2025/02/17/ya-es-oficial-el-ingreso-de-militares-estadounidenses-para-adiestramiento-de-elementos-de-la-marina/](https://elheraldodesaltillo.mx/2025/02/17/ya-es-oficial-el-ingreso-de-militares-estadounidenses-para-adiestramiento-de-elementos-de-la-marina/)
 
