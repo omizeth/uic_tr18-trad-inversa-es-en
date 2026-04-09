@@ -166,7 +166,6 @@ By Agencias - February 17, 2025
 According to the document, their presence in Mexico is intended to participate in the training exercise "Strengthening the Capacity of SEMAR’s Special Operations Forces," which will take place at the Marine Corps Specialized Training and Education Center ("Centro de Capacitación y Adiestramiento Especializado de Infantería de Marina") in San Luis Carpizao, Campeche, from February 17 to March 28, 2025.
 
 The decree was approved by the Chamber of Senators in accordance with the authority granted to it under Article 76, section III, of the Political Constitution of the United Mexican States, and subsequently promulgated by President Claudia Sheinbaum Pardo.
-El decreto fue aprobado por la Cámara de Senadores en ejercicio de la facultad que le otorga el artículo 76, fracción III, de la Constitución Política de los Estados Unidos Mexicanos, y posteriormente promulgado por la Presidenta Claudia Sheinbaum Pardo.
 
 The document also directs the Secretary of the Navy to submit a report to the Chamber of Senator a report of the exercise once the training is complete.
 
@@ -174,20 +173,20 @@ This authorization is in accordance with the procedures established in the Const
 
 The authorization for the U.S. military personnel to enter Mexico comes at a time when bilateral security relations are marked by two key factors: the presence of U.S. surveillance flights near Mexican territory, as well as the process underway in Washington to designate several Mexican cartels as Foreign Terrorist Organizations (FTOs).
 
-U.S. Department of State is moving forward with the process of designating several Mexican cartels as foreign terrorist organizations, which is a move that would tighten sanctions againts this groups and expand the scope of action for U.S. security agencies.
+U.S. Department of State is moving forward with the process of designating several Mexican cartels as foreign terrorist organizations, which is a move that would tighten sanctions against these groups and expand the scope of action for U.S. security agencies.
 
 The New York Times reported that the list would include six Mexican cartels:
 
-- Cártel de Sinaloa (CDS)
-- Cártel Jalisco Nueva Generación (CJNG)
-- Cártel del Noreste
-- La Familia Michoacana
-- Cárteles Unidos
-- Cártel del Golfo (CDG)
+- Sinaloa Cartel (CDS)
+- Jalisco New Generation Cartel (CJNG)
+- Northeast Cartel
+- The Michoacan Family
+- United Cartels (also known as "The Resistance")
+- Gulf Cartel (CDG)
 
-La medida se basa en una orden ejecutiva firmada por el presidente Donald Trump el pasado 20 de enero, la cual busca clasificar a estos grupos bajo la misma categoría que Al-Qaeda o el Estado Islámico (ISIS). Esta designación permitiría a Estados Unidos congelar sus activos, restringir su financiamiento y ampliar la jurisdicción de sus agencias de seguridad en la lucha contra el crimen organizado transnacional. (EL HERALDO)
+The measure is based on an executive order signed by President Donald Trump on January 20, which seeks to classify these groups under the same category as Al-Qaeda or the Islamic State (ISIS). This designation would allow the United States to freeze its assets, restrict its financing, and expand the jurisdiction of its security agencies in the fight against transnational organized crime. (EL HERALDO)
 
-**Fuente:** [https://elheraldodesaltillo.mx/2025/02/17/ya-es-oficial-el-ingreso-de-militares-estadounidenses-para-adiestramiento-de-elementos-de-la-marina/](https://elheraldodesaltillo.mx/2025/02/17/ya-es-oficial-el-ingreso-de-militares-estadounidenses-para-adiestramiento-de-elementos-de-la-marina/)
+**Source:** [https://elheraldodesaltillo.mx/2025/02/17/ya-es-oficial-el-ingreso-de-militares-estadounidenses-para-adiestramiento-de-elementos-de-la-marina/](https://elheraldodesaltillo.mx/2025/02/17/ya-es-oficial-el-ingreso-de-militares-estadounidenses-para-adiestramiento-de-elementos-de-la-marina/)
 
 ---
 
