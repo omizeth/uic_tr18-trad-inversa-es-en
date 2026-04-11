@@ -183,7 +183,7 @@ The New York Times reported that the list would include six Mexican cartels:
 - Sinaloa Cartel (CDS)
 - Jalisco New Generation Cartel (CJNG)
 - Northeast Cartel
-- The Michoacan Family (La Familia Michoacana
+- The Michoacan Family (La Familia Michoacana)
 - United Cartels (also known as "The Resistance")
 - Gulf Cartel (CDG)
 
