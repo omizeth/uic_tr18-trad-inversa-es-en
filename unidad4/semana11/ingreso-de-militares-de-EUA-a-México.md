@@ -1,155 +1,158 @@
----
+\---
+
 layout: default
 title: Ingreso de Militares de EUA a México
 parent: Semana 11
-grand_parent: Unidad 4
-nav_order: 4
+grand\_parent: Unidad 4
+nav\_order: 4
 ---
 
-# Ingreso de Militares de EUA a México
+# Entrance of members of the U.S. Army to Mexico
 
-## Documento 1 - Carta
+## Document 1 - Letter
 
-[SELLO: ESTADOS UNIDOS MEXICANOS - PRESIDENCIA DE LA REPÚBLICA]
+\[SEAL: UNITED MEXICAN STATES - PRESIDENCY OF THE REPUBLIC]
 
-JOSÉ GERARDO RODOLFO FERNÁNDEZ NOROÑA<br> 
-PRESIDENTE DE LA MESA DIRECTIVA<br>
-DE LA CÁMARA DE SENADORES DEL<br>
-H. CONGRESO DE LA UNIÓN<br>
+JOSÉ GERARDO RODOLFO FERNÁNDEZ NOROÑA<br>
+CHAIRMAN OF THE BOARD OF DIRECTORS<br>
+OF THE SENTAE OF THE<br>
+H. CONGRESS OF THE UNION<br>
 
-El artículo 76, fracción III, de la Constitución Política de los Estados Unidos Mexicanos dispone que es facultad exclusiva del Senado de la República autorizar al Ejecutivo Federal para que permita el paso de tropas extranjeras por el territorio nacional.
+Article 76, Section III, of the Political Constitution of the United Mexican States establishes that the Senate has the exclusive power to authorize the Federal Executive to authorize the transit of foreign troops through national territory.
 
-La Secretaría de Marina recibió la invitación de la Oficina de Coordinación de Defensa de la Embajada de los Estados Unidos de América para llevar a cabo el evento de adiestramiento denominado **"Fortalecer la Capacidad de las Fuerzas de Operaciones Especiales de la SEMAR"**, que, de ser aprobado, se realizará en el Centro de Capacitación y Adiestramiento Especializado de Infantería de Marina con sede en San Luis Carpizo, Campeche, del 17 de febrero al 28 de marzo de 2025.
+The Mexican Secretariat of the Navy received an invitation from the Office of Defense Cooperation to celebrate the training event known as **"Strengthening the Capabilities of the SEMAR Special Operations Forces"**, which, if approved, will take place in the Mexican Marine Corps Specialized Training and Education Center located in San Luis Carpizo, in the State of Campeche, from February 17 to March 28, 2025.
 
-Dicho evento tiene como propósito que los elementos de las Fuerzas Especiales del Comando de Operaciones Especiales del Ejército de los Estados Unidos de América y el personal de la Unidad de Operaciones Especiales de la Secretaría de Marina lleven a cabo actividades de capacitación y adiestramiento, relativas a la ejecución de tácticas, técnicas y procedimientos de combate convencional y no convencional, en operaciones anfibias, en ambiente marítimo, terrestre y aéreo.
+The objective of this event is to bring together members of the Special Forces of the U.S. Army Special Operations Command and personnel from the Special Operations Unit of the Mexican Secretariat of the Navy to carry out educational and training activities related to the execution of conventional and non-conventional combat tactics, techniques, and procedures in amphibious operations in maritime, land, and air environments.
 
-De contar con la autorización de ese órgano legislativo, ingresaría al territorio nacional una delegación conformada por diez (10) elementos del Séptimo Grupo de Fuerzas Especiales de los Estados Unidos de América; el cual, portará el armamento, municiones, material y equipos especiales necesarios para el entrenamiento combinado conjunto.
+If authorization is granted by this legislative body, a delegation consisting of ten (10) members of the 7th Special Forces Group of the United States of America would enter the national territory; this group would be armed with weapons, ammunition, and special material and equipment for the joint combined training.
 
-El personal de instructores arribará al Aeropuerto Internacional de Campeche en una aeronave militar tipo C-130 propiedad del ejército de los Estados Unidos de América el 15 de febrero de 2025, para salir del país el 30 de marzo de 2025.
+The team of instructors will arrive at the Campeche International Airport on a C-130 military aircraft, owned by the United States of America, on February 15, 2025, to depart the country on March 30, 2025. 
 
-Por lo anterior, con fundamento en el artículo 76, fracción III, de la Constitución Política de los Estados Unidos Mexicanos, someto a consideración de esa Cámara de Senadores del Honorable Congreso de la Unión, la solicitud de autorización para permitir el ingreso del personal militar del ejército de los Estados Unidos de América al territorio nacional; a efecto de que participen en la actividad de adiestramiento denominada "Fortalecer la Capacidad de las Fuerzas de Operaciones Especiales de la SEMAR", a realizarse en el Centro de Capacitación y Adiestramiento Especializado de Infantería de Marina con sede en San Luis Carpizo, Campeche, del 17 de febrero al 28 de marzo de 2025.
+For this reason, based on Article 76, Section III, of the Political Constitution of the United Mexican States, I hereby submit to the aforementioned Senate of the Honorable Congress of the Union, a request to grant entry into the national territory to the military personnel of the United States Army, so that they may participate in the training activity known as “Strengthening the Capabilities of the SEMAR Special Operations Forces”, which will take place in the Mexican Marine Corps Specialized Training and Education Center located in San Luis Carpizo, in the State of Campeche, from February 17 to March 28, 2025.
 
-[SELLO: ESTADOS UNIDOS MEXICANOS - PRESIDENCIA DE LA REPÚBLICA]
+\[SEAL: UNITED MEXICAN STATES - PRESIDENCY OF THE REPUBLIC]
 
-Hoja de firma del *Comunicado por el que se somete a consideración de la Cámara de Senadores del H. Congreso de la Unión, la solicitud de autorización para que la titular del Ejecutivo Federal permita el ingreso al territorio nacional de personal militar del ejército de los Estados Unidos de América, a efecto de que participen en la actividad de adiestramiento denominada "Fortalecer la Capacidad de las Fuerzas de Operaciones Especiales de la SEMAR", a realizarse en San Luis Carpizo, Campeche, del 17 de febrero al 28 de marzo de 2025.*
+Signature page of the *communication submitted for consideration by the Senate of the Honorable Congress of the Union the request for authorization for the Head of the Federal Executive to allow the entry into national territory of military personnel of the United States Army, so that they may participate in the training activity known as “Strengthening the Capabilities of the SEMAR Special Operations Forces,” which will take place in San Luis Carpizo, Campeche, from February 17 to March 28, 2025.*
 
-Reitero a usted las seguridades de mi atenta y distinguida consideración.
+I reiterate to you the assurances of my highest consideration..
 
-Ciudad de México, a 16 de enero de 2025.
+MEXICO CITY, January 16, 2025.
 
 LA PRESIDENTA DE LOS ESTADOS UNIDOS MEXICANOS
 
-[Firma]
+\[SIGNATURE]
 
 CLAUDIA SHEINBAUM PARDO
 
-[SELLO: ESTADOS UNIDOS MEXICANOS]
+\[SEAL: UNITED MEXICAN STATES]
 
-**Fuente:** [https://sil.gobernacion.gob.mx/Archivos/Documentos/2025/01/asun_4828744_20250121_1737481302.pdf](https://sil.gobernacion.gob.mx/Archivos/Documentos/2025/01/asun_4828744_20250121_1737481302.pdf)
+**Source:** [https://sil.gobernacion.gob.mx/Archivos/Documentos/2025/01/asun\_4828744\_20250121\_1737481302.pdf](https://sil.gobernacion.gob.mx/Archivos/Documentos/2025/01/asun_4828744_20250121_1737481302.pdf)
 
----
-## Document 2 - Decreto
+\---
 
-### Diario Oficial de la Federación
+## Document 2 - Decree
 
-Poder Ejecutivo / PRESIDENCIA DE LA REPUBLICA
+### Official Journal of the Federation
 
-**Publicado el:** 17-02-2025
+Executive Power/ PRESIDENCY OF THE REPUBLIC
 
-**Sección:** Unica
+**Published on:** February 17th, 2025
 
-**Edición:** Matutina
+**Section:** Single
 
-**Publicado el:** 17-02-2025
+**Edition:** Morning
 
-**DECRETO por el que se concede autorización a la Presidenta de los Estados Unidos Mexicanos, para que permita el ingreso a territorio nacional de 10 (diez) elementos militares del Ejército de los Estados Unidos de América, a efecto de que participen en la actividad de adiestramiento denominado "Fortalecer la Capacidad de las Fuerzas de Operaciones Especiales de la SEMAR", a realizarse en el Centro de Capacitación y Adiestramiento Especializado de Infantería de Marina con sede en San Luis Carpizo, Campeche, del 17 de febrero al 28 de marzo de 2025.**
+**Published on:** February 17th, 2025
 
-**Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos. - Presidencia de la República.**
+**DECREE granting authorization to the President of the United Mexican States to allow the entry into the national territory of the military members of the United States Army to participate in the training activity known as  “Strengthening the Capabilities of the SEMAR Special Operations Forces”, which will take place in the Mexican Marine Corps Specialized Training and Education Center located in San Luis Carpizo, in the State of Campeche, from February 17 to March 28, 2025.**
 
-**CLAUDIA SHEINBAUM PARDO**, Presidenta de los Estados Unidos Mexicanos, a sus habitantes sabed:
+**In the margin, a stamp bearing the Mexican coat of arms, which reads: United Mexican States. - Presidency of the Republic.**
 
-Que la Cámara de Senadores del Honorable Congreso de la Unión, se ha servido dirigirme el siguiente
+**CLAUDIA SHEINBAUM PARDO**, President of the United Mexican States, let it be known to the people of Mexico:
 
-**DECRETO**
+That the Senate of the Honorable Congress of the Union has seen fit to send me the following 
 
-"LA CÁMARA DE SENADORES DEL HONORABLE CONGRESO DE LA UNIÓN, EN EJERCICIO DE LA FACULTAD QUE LE CONFIERE EL ARTÍCULO 76, FRACCIÓN III DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS,
+**DECREE**
 
-**DECRETA:**
+"THE SENATE OF THE HONORABLE CONGRESS OF THE UNION IN EXERCISE OF THE AUTHORITY CONFERRED UPON IT BY ARTICLE 76, SECTION III, OF THE POLITICAL CONSTITUTION OF THE UNITED MEXICAN STATES,
 
-**Primero.**- La Cámara de Senadores del Honorable Congreso de la Unión, en ejercicio de la facultad que le concede el artículo 76, fracción III, de la Constitución Política de los Estados Unidos Mexicanos, concede autorización a la Presidenta de los Estados Unidos Mexicanos, para que permita el ingreso a territorio nacional de 10 (diez) elementos militares del Ejército de los Estados Unidos de América, a efecto de que participen en la actividad de adiestramiento denominado "**Fortalecer la Capacidad de las Fuerzas de Operaciones Especiales de la SEMAR**", a realizarse en el Centro de Capacitación y Adiestramiento Especializado de Infantería de Marina con sede en San Luis Carpizo, Campeche, del 17 de febrero al 28 de marzo de 2025.
+**DECREETS:**
 
-**Segundo.**- Se solicita respetuosamente, a la Titular del Ejecutivo Federal instruya al Secretario de Marina, para que presente a esta Soberanía un informe sobre el resultado del ejercicio de adiestramiento.
+**First.**- The Senate of the Honorable Congress of the Union, in exercise of the authority conferred upon it by Article 76, Section iii, of the political constitution of the United Mexican States, grants the President of the United Mexican States authorization to allow the entry into national territory of 10 (ten) members of the United States Army, so that they may participate in the training activity known as "**Strengthening the Capabilities of the SEMAR Special Operations Forces**", which will take place in the Mexican Marine Corps Specialized Training and Education Center located in San Luis Carpizo, in the State of Campeche, from February 17 to March 28, 2025.
 
-**Transitorios**
+**Second.**- The Head of the Federal Executive is respectfully requested to instruct the Secretary of the Navy to submit to this House a report on the results of the training exercise.
 
-**Primero.**- El presente Decreto entrará en vigor en el momento de su aprobación por la Cámara de Senadores.
+**Transitory Provisions**
 
-**Segundo.**- Publíquese en el Diario Oficial de la Federación.
+**First.**- This Decree shall come into effect upon its approval by the Senate.
 
-Ciudad de México, a 11 febrero de 2025.- Sen. Gerardo Fernández Noroña, Presidente.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Rúbricas."
+**Second.**- Let it be published in the Official Journal of the Federation.
 
-En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 13 de febrero de 2025.- **Claudia Sheinbaum Pardo**, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. **Rosa Icela Rodríguez Velázquez**, Secretaria de Gobernación.- Rúbrica.
+Mexico City, February 11, 2025.- Sen. Gerardo Fernández Noroña, President. - Sen. Verónica Noemí Camino Farjat, Secretaria.- Signatures.”
 
-**Fuente:** [https://sidof.segob.gob.mx/notas/5749329](https://sidof.segob.gob.mx/notas/5749329)
+In accordance with Section I of Article 89 of the Political Constitution of the United Mexican States, and for its proper publication and enforcement, I issue this Decree at the Federal Executive residence, in Mexico City, on February 13, 2025.- **Claudia Sheinbaum Pardo**, President of the United Mexican States.- Signature.- Lcda. **Rosa Icela Rodríguez Velázquez**, Secretary of the Interior.- Signature. 
 
----
-## Document 3 - Noticia 1
+**Source:** [https://sidof.segob.gob.mx/notas/5749329](https://sidof.segob.gob.mx/notas/5749329)
 
-### INFORMADOR.MX | ÚLTIMAS NOTICIAS
+\---
 
-### Senado aprueba por unanimidad la entrada de marines de EU para capacitar a la Semar
 
-**El Senado aprobó la solicitud de ingreso de 10 elementos del ejército de Estados Unidos**
+## Document 3 - News 1
 
-Por: SUN.
+### INFORMADOR.MX | BREAKING NEWS
 
-11 de febrero de 2025 - 16:02 hs
+### Senate Unanimously Approves the Deployment of U.S. Marines to Train the Mexican Navy
 
-![Elemento de la Marina detiene a personas con las manos levantadas durante un operativo en zona boscosa](https://raw.githubusercontent.com/alainamb/uic_tr18-trad-inversa-es-en/main/unidad4/semana11/imagenes/Sun_noticia1-image.png)
+**The Senate approved the request to admit 10 members of the U.S. Army**
 
-<small>Semar autorizó la propuesta con 107 votos de todas las fracciones parlamentarias. SUN/ARCHIVO</small>
+By: SUN.
 
-Con un voto unánime, la Presidenta Claudia Sheinbaum Pardo obtuvo la *autorización del Pleno del Senado para conceder el ingreso de 10 elementos del ejército estadounidense al territorio mexicano*, con el propósito de participar en las actividades de adiestramiento denominadas para "Fortalecer la capacidad de las fuerzas de operaciones especiales de la Semar (Secretaría de Marina)".
+February 11, 2025 - 16:02 hs
 
-**Te puede interesar: México no descarta espionaje de aviones de Estados Unidos**
+![A Navy officer detains people with their hands raised during an operation in a wooded area] (https://raw.githubusercontent.com/alainamb/uic_tr18-trad-inversa-es-en/main/unidad4/semana11/imagenes/Sun_noticia1-image.png)
 
-Esta capacitación tendrá como duración del día *17 de febrero al 28 de marzo del presente año*, y será en el Centro de Capacitación y Adiestramiento Especializado de Infantería de Marina, con sede en 8San Luis Carpizo, Campeche8.
+<small>Semar (from its acronym) approved the proposal with 107 votes from all parliamentary groups.  SUN/FILE</small>
 
-Lilly Téllez, senadora del PAN, mencionó, en tribuna, que este tipo de actividades internacionales "nos recuerda cómo sí se puede cooperar entre ambas fuerzas militares, las estadounidenses y las mexicanas".
+In a unanimous vote, President Claudia Sheinbaum Pardo was granted authorization by the Senate floor to allow 10 members of the U.S. military to enter Mexican territory to take part in training activities aimed at “strengthening the capabilities of the  Navy’s special operations forces (Semar).”
 
-"Como vemos no hay invasión de México porque vengan fuerzas estadounidenses a cooperar con las mexicanas, no hay invasión, no hay ninguna violación a la soberanía, la patria no se vendió, la patria no se sometió porque constantemente haya esta cooperación entre fuerzas estadounidenses y fuerzas mexicanas.
+**You might be interested in: Mexico does not rule out espionage by U.S. aircraft**
 
-"¿Por qué entonces no aceptar la cooperación con Estados Unidos para proceder contra los cárteles en México?, ¿por qué no aceptarlo bajo un convenio de cooperación en un marco legal como está sucediendo y como ha sucedido en todos estos años cuando se realizan este tipo de ejercicios que hoy autorizamos?", cuestionó.
+The training will take place from *February 17 to March 28* and will be held at the Marine Corps Specialized Training Center, located in San Luis Carpizo, Campeche8.
 
-Aseguró que no sólo **no habría violación a nuestra soberanía con una colaboración con Estados Unidos** contra los cárteles, sino que se podrían salvar la vida de los mexicanos "que Morena ha dejado indefensos ante la guerra del crimen organizado contra los ciudadanos. Así vemos que sí está claro que se puede cooperar sin sometimiento", insistió.
+PAN Senator Lilly Téllez, stated on the Senate floor that this type of international activity “reminds us that collaboration between the U.S. and Mexican military forces is indeed possible.”
 
-#### El Estado mexicano no puede contra los cárteles
+“As we can see,the presence of U.S. forces cooperating with Mexican forces does not constitute an invasion, there is no violation of sovereignty, the country has not been sold out, and the country has not been subjugated simply because this kind of cooperation continues between both nations’ armed forces.”
 
-Lili Téllez dijo que la realidad es que *el Estado mexicano no puede contra los cárteles*, porque de lo contrario ya hubiera procedido.
+“Why, then, not accept U.S. cooperation to take action against cartels in Mexico? Why not do so under a formal agreement within a legal framework, as is happening now and has been the case for years whenever these types of exercises are carried out?” she asked.
 
-Al presentar el proyecto de Decreto, el senador del PRI Rolando Zapata Bello, secretario de la Comisión de Marina, afirmó que la colaboración con Estados Unidos para entrenar a personal de la Armada de México representa una oportunidad significativa para fortalecer nuestra seguridad nacional.
+She argued that not only **would collaborating with the United States** against the cartels not constitute a violation of our sovereignty, but could also help save Mexicans lives “Morena has left unprotected amid organized crime’s ongoing violence against citizens. This clearly shows that cooperation is possible without subordination,” she added.
 
-Aseguró que el proyecto ha sido analizado con detenimiento para **garantizar que preserve nuestra soberanía y refuerce nuestras capacidades nacionales**.
+#### The Mexican State cannot overcome cartels alone
 
-"El entrenamiento conjunto con las Fuerzas Armadas de Estados Unidos puede fortalecer nuestras capacidades de combate, rescate, navegación y manejo de equipos tácticos, impulsando el profesionalismo y la eficiencia de nuestra Armada para responder mejor ante las amenazas crecientes que acechan al país", argumentó el exgobernador de Yucatán.
+Lili Téllez said that, in reality,*the Mexican State is unable to defeat the cartels*, otherwise it would have already done so.
 
-**Lee: La FGR da fuerte golpe al tráfico de fentanilo**
+While presenting the draft decree, PRI Senator Rolando Zapata Bello, secretary of the Navy Committee, stated that cooperation with the United States in training Mexican Navy personnel represents a significant opportunity to strengthen our national security.
 
-"Damos la bienvenida a la colaboración con los Estados Unidos como aliados estratégicos, conscientes del potencial de esa colaboración. No obstante, reitero: su éxito dependerá de una gestión cuidadosa que garantice el fortalecimiento de nuestra soberanía y nuestros principios democráticos de gobierno. Debemos siempre asegurar que estos esfuerzos hagan a México más fuerte y mejor preparado para defender a la patria, para garantizar la libertad y la pluralidad de nuestra tierra", apuntó Zapata Bello.
+He assured that the proposal had been carefully reviewed to **ensure it preserves our sovereignty and strengthens our national capabilities**.
 
-La iniciativa **fue aprobada con 107 votos** de todas las fracciones parlamentarias.
+“Joint training with the U.S. Armed Forces can improve our combat, rescue operations, navigation, and tactical equipment handling capabilities, enhancing the professionalism and efficiency of our Navy so  it can better respond to the growing threats facing the country,” said the former governor of Yucatán.
 
-#### Temas
+**Read: The Attorney General's Office of Mexico deals a major blow to fentanyl trafficking**
+
+“We welcome the partnership with the United States as strategic allies and recognize its potential. However, I reiterate: its success will depend on careful management to ensure the strengthening of our sovereignty and democratic principles of governance. We must guarantee that these efforts make Mexico stronger and better prepared to defend the nation, as well as to guarantee freedom and diversity,” said Zapata Bello.
+
+The initiative **was approved with 107 votes** from all parliamentary groups.
+
+#### Topics
 
 Claudia Sheinbaum<br>
-Estados Unidos<br>
-Senado<br>
-Semar<br>
+United States<br>
+Senate<br>
+Senator<br>
 
-**Fuente:** [https://www.informador.mx/mexico/Senado-aprueba-por-unanimidad-la-entrada-de-marines-de-EU-para-capacitar-a-la-Semar-20250211-0139.html](https://www.informador.mx/mexico/Senado-aprueba-por-unanimidad-la-entrada-de-marines-de-EU-para-capacitar-a-la-Semar-20250211-0139.html)
+**Source:** [https://www.informador.mx/mexico/Senado-aprueba-por-unanimidad-la-entrada-de-marines-de-EU-para-capacitar-a-la-Semar-20250211-0139.html](https://www.informador.mx/mexico/Senado-aprueba-por-unanimidad-la-entrada-de-marines-de-EU-para-capacitar-a-la-Semar-20250211-0139.html)
 
----
-## Document 4 - Noticia 2
+## Document 4 - News 2
 
 ### El Heraldo de Saltillo | MEXICO
 
